@@ -1,0 +1,34 @@
+body {
+    background-color: #3f474f;
+    color: #FFF;
+}
+
+a {
+    text-decoration: none;
+}
+
+.textoHome {
+    margin-top: 250px;
+}
+
+.textoExe2 {
+    margin-top: 250px;
+}
+
+.formulaF {
+    color: rgb(183, 182, 182);
+}
+
+.formulaC {
+    color: rgb(183, 182, 182);
+}
+
+.forms {
+    border: rgb(153, 153, 153) 1px solid;
+    border-radius: 7px;
+    padding: 25px;
+}
+
+.tabelaEdit {
+    background-color: #FFF;
+}
